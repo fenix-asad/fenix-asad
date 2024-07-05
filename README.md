@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on U.S.A
-- 📫 How to reach me love
+- 📫 How to reach me python
 - 😄 Pronouns: PUBG
 - ⚡ Fun fact: UZB=UZB
 
